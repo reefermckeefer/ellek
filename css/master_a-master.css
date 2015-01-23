@@ -187,13 +187,13 @@
 	visibility: inherit;
 }
 
-#u77
+#u162,#u77
 {
 	border-color: #000000;
 	background-color: #191919;
 }
 
-#u75_align_to_page,#u77_align_to_page
+#u162_align_to_page,#u75_align_to_page,#u77_align_to_page
 {
 	position: relative;
 }
