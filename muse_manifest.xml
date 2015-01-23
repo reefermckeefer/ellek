@@ -1,4 +1,4 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1421989346413">
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1422028372121">
   <folder name="images">
     <file name="redvidalogosmall.png" crc="3915032845" ref="portfolio"/>
     <file name="redvidalogosmall_2x.png" crc="329671057" ref="portfolio"/>
@@ -7,7 +7,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="361011122"/>
-    <file name="master_a-master.css" crc="451060688" ref="index:portfolio:about:contact"/>
+    <file name="master_a-master.css" crc="451060688" ref="index:portfolio:about:contact:brandon"/>
     <file name="index.css" crc="446501108" ref="index"/>
     <file name="iefonts_index.css" crc="406274683" ref="index"/>
     <file name="portfolio.css" crc="465207445" ref="portfolio"/>
@@ -16,14 +16,17 @@
     <file name="iefonts_about.css" crc="7532326" ref="about"/>
     <file name="contact.css" crc="276536512" ref="contact"/>
     <file name="iefonts_contact.css" crc="7532326" ref="contact"/>
+    <file name="brandon.css" crc="3855721313" ref="brandon"/>
+    <file name="iefonts_brandon.css" crc="7532326" ref="brandon"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:portfolio:about:contact"/>
-    <file name="museutils.js" crc="3777594392" ref="index:portfolio:about:contact"/>
-    <file name="jquery.watch.js" crc="4144919381" ref="index:portfolio:about:contact"/>
+    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:portfolio:about:contact:brandon"/>
+    <file name="museutils.js" crc="3777594392" ref="index:portfolio:about:contact:brandon"/>
+    <file name="jquery.watch.js" crc="4144919381" ref="index:portfolio:about:contact:brandon"/>
   </folder>
   <file name="index.html" crc="4153334502" mt="1421989255173" redirect="true"/>
   <file name="portfolio.html" crc="3911862861" mt="1421989336997" redirect="true"/>
   <file name="about.html" crc="172980315" mt="1421989255176" redirect="true"/>
   <file name="contact.html" crc="3883838544" mt="1421989255178" redirect="true"/>
+  <file name="brandon.html" crc="4099583740" mt="1422028368812" redirect="true"/>
 </manifest>
