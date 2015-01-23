@@ -1,4 +1,4 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1422028447904">
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1422028523283">
   <folder name="images">
     <file name="redvidalogosmall.png" crc="3915032845" ref="portfolio"/>
     <file name="redvidalogosmall_2x.png" crc="329671057" ref="portfolio"/>
@@ -23,7 +23,7 @@
     <file name="jquery.watch.js" crc="4144919381" ref="index:portfolio:about:contact"/>
   </folder>
   <file name="index.html" crc="4153334502" mt="1421989255173" redirect="true"/>
-  <file name="portfolio.html" crc="3911862861" mt="1421989336997" redirect="true"/>
+  <file name="portfolio.html" crc="283939827" mt="1422028509732" redirect="true"/>
   <file name="about.html" crc="172980315" mt="1421989255176" redirect="true"/>
   <file name="contact.html" crc="3883838544" mt="1421989255178" redirect="true"/>
 </manifest>
