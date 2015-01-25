@@ -1,7 +1,7 @@
-.version.portfolio /* version checker */
+.version.cryptocard /* version checker */
 {
-	color: #0000F9;
-	background-color: #AE945E;
+	color: #0000FF;
+	background-color: #AC54F2;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1020px;
-	min-height: 1299.9000000000005px;
+	min-height: 1299.9999999999948px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -263,6 +263,14 @@
 	z-index: 34;
 }
 
+#u189_align_to_page,#u200_align_to_page,#u223_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1020px;
+	left: -100px;
+}
+
 #buttonu221
 {
 	z-index: 35;
@@ -372,63 +380,85 @@
 	margin: 11px -10000px 0px 0px;
 }
 
-#pu194
-{
-	width: 0.01px;
-	margin-left: -100px;
-	margin-top: -1px;
-}
-
 #u194
 {
 	z-index: 4;
-	padding-bottom: 707px;
+	padding-bottom: 361px;
 }
 
-#u189_align_to_page,#u200_align_to_page,#u223_align_to_page,#u194_align_to_page
+#u194_align_to_page
 {
 	margin-left: auto;
 	margin-right: auto;
 	width: 1020px;
 	left: -100px;
+	margin-bottom: -1px;
 }
 
-#u133-4
+#pu215-4
 {
-	z-index: 46;
-	width: 980px;
-	min-height: 182px;
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 73px;
+	margin-left: 151px;
+}
+
+#u215-4
+{
+	z-index: 45;
+	width: 209px;
+	min-height: 26px;
 	background-color: transparent;
 	line-height: 24px;
 	font-size: 20px;
 	color: #191919;
+	text-align: center;
+	font-family: josefin-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u217
+{
+	z-index: 75;
+	width: 113px;
+	background-color: transparent;
+	margin-left: 48px;
+	margin-top: 25px;
+	position: relative;
+}
+
+#u216-26
+{
+	z-index: 49;
+	width: 682px;
+	min-height: 329px;
+	background-color: transparent;
+	line-height: 24px;
+	font-size: 20px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 55px;
-	left: 120px;
+	margin-top: 79px;
+	left: 387px;
+}
+
+#u216-5
+{
+	color: #FFFFFF;
+}
+
+#u216,#u216-4,#u216-6,#u216-7,#u216-8,#u216-10,#u216-11,#u216-13,#u216-14,#u216-16,#u216-17,#u216-19,#u216-20,#u216-21,#u216-22,#u216-24
+{
+	color: #191919;
 }
 
 #u194-bw
 {
 	z-index: 4;
-	height: 237px;
-}
-
-#u170
-{
-	z-index: 45;
-	height: 659px;
-	border-color: #000000;
-	background-color: #FFFFFF;
-}
-
-#u170-bw
-{
-	z-index: 45;
-	margin-top: 473px;
-	height: 659px;
+	margin-top: -1px;
+	height: 583px;
 }
 
 #u195
