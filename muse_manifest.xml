@@ -1,4 +1,4 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1422029511413">
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1422165009314">
   <folder name="images">
     <file name="redvidalogosmall.png" crc="3915032845" ref="portfolio"/>
     <file name="redvidalogosmall_2x.png" crc="329671057" ref="portfolio"/>
@@ -7,23 +7,23 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="361011122"/>
-    <file name="master_a-master.css" crc="4054003060" ref="index:portfolio:about:contact"/>
-    <file name="index.css" crc="250756723" ref="index"/>
+    <file name="master_a-master.css" crc="4139090463" ref="index:portfolio:about:contact"/>
+    <file name="index.css" crc="3989447127" ref="index"/>
     <file name="iefonts_index.css" crc="406274683" ref="index"/>
-    <file name="portfolio.css" crc="318284823" ref="portfolio"/>
-    <file name="iefonts_portfolio.css" crc="377244074" ref="portfolio"/>
-    <file name="about.css" crc="326378034" ref="about"/>
+    <file name="portfolio.css" crc="224865149" ref="portfolio"/>
+    <file name="iefonts_portfolio.css" crc="358249849" ref="portfolio"/>
+    <file name="about.css" crc="200851680" ref="about"/>
     <file name="iefonts_about.css" crc="7532326" ref="about"/>
-    <file name="contact.css" crc="326378034" ref="contact"/>
-    <file name="iefonts_contact.css" crc="7532326" ref="contact"/>
+    <file name="contact.css" crc="503116351" ref="contact"/>
+    <file name="iefonts_contact.css" crc="3955451842" ref="contact"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:portfolio:about:contact"/>
     <file name="museutils.js" crc="3777594392" ref="index:portfolio:about:contact"/>
     <file name="jquery.watch.js" crc="4144919381" ref="index:portfolio:about:contact"/>
   </folder>
-  <file name="index.html" crc="3984975485" mt="1422029284181" redirect="true"/>
-  <file name="portfolio.html" crc="425027275" mt="1422029506107" redirect="true"/>
-  <file name="about.html" crc="4119492930" mt="1422029284184" redirect="true"/>
-  <file name="contact.html" crc="326701790" mt="1422029284185" redirect="true"/>
+  <file name="index.html" crc="376952829" mt="1422163921331" redirect="true"/>
+  <file name="portfolio.html" crc="3950760488" mt="1422164049691" redirect="true"/>
+  <file name="about.html" crc="3873452091" mt="1422163921333" redirect="true"/>
+  <file name="contact.html" crc="3809911353" mt="1422164923441" redirect="true"/>
 </manifest>

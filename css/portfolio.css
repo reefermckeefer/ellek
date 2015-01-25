@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #000012;
-	background-color: #F8A417;
+	color: #00000D;
+	background-color: #672B7D;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1020px;
-	min-height: 1299.9000000000005px;
+	min-height: 1299.9000000000003px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -21,6 +21,11 @@
 	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-bottom: 38px;
 }
 
 #u162
@@ -279,9 +284,9 @@
 	width: 209px;
 	min-height: 26px;
 	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 20px;
 	line-height: 24px;
+	font-size: 20px;
+	color: #FFFFFF;
 	text-align: center;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 300;
@@ -305,9 +310,9 @@
 	width: 209px;
 	min-height: 26px;
 	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 20px;
 	line-height: 24px;
+	font-size: 20px;
+	color: #FFFFFF;
 	text-align: center;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 300;
@@ -321,8 +326,8 @@
 	width: 682px;
 	min-height: 182px;
 	background-color: transparent;
-	font-size: 20px;
 	line-height: 24px;
+	font-size: 20px;
 	color: #FFFFFF;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 300;
@@ -357,7 +362,7 @@
 
 #u156
 {
-	z-index: 97;
+	z-index: 100;
 	width: 113px;
 	background-color: transparent;
 	position: relative;
@@ -366,14 +371,14 @@
 	left: 186px;
 }
 
-#u142-23
+#u142-26
 {
 	z-index: 74;
 	width: 682px;
 	min-height: 329px;
 	background-color: transparent;
-	font-size: 20px;
 	line-height: 24px;
+	font-size: 20px;
 	color: #FFFFFF;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 300;
@@ -387,22 +392,19 @@
 {
 	z-index: 34;
 	margin-top: 869px;
-	height: 442px;
+	height: 466px;
 }
 
 #u171
 {
 	z-index: 2;
-	padding-bottom: 38px;
+	height: 347px;
+	bottom: 0px;
 }
 
-#u171_align_to_page
+#u171-bw
 {
-	margin-left: auto;
-	margin-right: auto;
-	width: 1020px;
-	left: -100px;
-	margin-bottom: -7px;
+	z-index: 2;
 }
 
 #u123-4
@@ -410,16 +412,7 @@
 	z-index: 30;
 	width: 228px;
 	min-height: 21px;
-	margin-right: -10000px;
-	margin-top: 7px;
-	left: 120px;
-}
-
-#u171-bw
-{
-	z-index: 2;
-	margin-top: -7px;
-	height: 31px;
+	margin-left: 20px;
 }
 
 body
