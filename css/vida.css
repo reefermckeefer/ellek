@@ -1,7 +1,7 @@
 .version.vida /* version checker */
 {
-	color: #0000F0;
-	background-color: #EE93E5;
+	color: #00001D;
+	background-color: #9F3CE3;
 }
 
 .html
@@ -368,7 +368,7 @@
 #u194
 {
 	z-index: 4;
-	padding-bottom: 218px;
+	padding-bottom: 242px;
 }
 
 #u189_align_to_page,#u200_align_to_page,#u223_align_to_page,#u194_align_to_page
@@ -432,7 +432,7 @@
 #u194-bw
 {
 	z-index: 4;
-	height: 726px;
+	height: 702px;
 }
 
 #u195

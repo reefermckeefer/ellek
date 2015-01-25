@@ -1,4 +1,4 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1422216614212">
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1422225018008">
   <folder name="images">
     <file name="redvidalogosmall.png" crc="3915032845" ref="vida"/>
     <file name="redvidalogosmall_2x.png" crc="329671057" ref="vida"/>
@@ -17,7 +17,7 @@
     <file name="contact.css" crc="313854840" ref="contact"/>
     <file name="iefonts_contact.css" crc="3955451842" ref="contact"/>
     <file name="master_portfolio-sub.css" crc="409097650" ref="vida:cryptocard:portfolio"/>
-    <file name="vida.css" crc="4042167269" ref="vida"/>
+    <file name="vida.css" crc="496975075" ref="vida"/>
     <file name="iefonts_vida.css" crc="346480823" ref="vida"/>
     <file name="cryptocard.css" crc="294007009" ref="cryptocard"/>
     <file name="iefonts_cryptocard.css" crc="162561790" ref="cryptocard"/>
@@ -28,9 +28,9 @@
     <file name="jquery.watch.js" crc="4144919381" ref="index:portfolio:about:contact:vida:cryptocard"/>
   </folder>
   <file name="index.html" crc="376952829" mt="1422167639252" redirect="true"/>
-  <file name="portfolio.html" crc="111424868" mt="1422216564523" redirect="true"/>
+  <file name="portfolio.html" crc="111424868" mt="1422224685381" redirect="true"/>
   <file name="about.html" crc="3873452091" mt="1422167639254" redirect="true"/>
   <file name="contact.html" crc="3809911353" mt="1422167639255" redirect="true"/>
-  <file name="vida.html" crc="4283414965" mt="1422216564527" redirect="true"/>
-  <file name="cryptocard.html" crc="421789557" mt="1422216564529" redirect="true"/>
+  <file name="vida.html" crc="3924216027" mt="1422224694773" redirect="true"/>
+  <file name="cryptocard.html" crc="421789557" mt="1422224685389" redirect="true"/>
 </manifest>
