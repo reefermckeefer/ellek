@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #0000F4;
-	background-color: #F2E43A;
+	color: #000006;
+	background-color: #127E7E;
 }
 
 .html
@@ -25,7 +25,7 @@
 
 #page_position_content
 {
-	padding-bottom: 38px;
+	padding-bottom: 14px;
 }
 
 #u189
@@ -247,12 +247,12 @@
 
 #u223
 {
-	z-index: 34;
+	z-index: 38;
 }
 
 #buttonu221
 {
-	z-index: 35;
+	z-index: 39;
 	width: 374px;
 	padding-bottom: 13px;
 	margin-right: -10000px;
@@ -271,7 +271,7 @@
 
 #u222-4
 {
-	z-index: 36;
+	z-index: 40;
 	width: 334px;
 	min-height: 6px;
 	margin-right: -10000px;
@@ -297,13 +297,13 @@
 
 #u223-bw
 {
-	z-index: 34;
+	z-index: 38;
 	height: 50px;
 }
 
 #buttonu224
 {
-	z-index: 40;
+	z-index: 44;
 	width: 374px;
 	padding-bottom: 13px;
 	margin-right: -10000px;
@@ -327,7 +327,7 @@
 
 #u225-4
 {
-	z-index: 41;
+	z-index: 45;
 	width: 157px;
 	min-height: 6px;
 	margin-right: -10000px;
@@ -381,7 +381,7 @@
 
 #u133-4
 {
-	z-index: 46;
+	z-index: 50;
 	width: 980px;
 	min-height: 182px;
 	background-color: transparent;
@@ -404,7 +404,7 @@
 
 #u170
 {
-	z-index: 45;
+	z-index: 49;
 	height: 659px;
 	border-color: #000000;
 	background-color: #FFFFFF;
@@ -412,7 +412,7 @@
 
 #u170-bw
 {
-	z-index: 45;
+	z-index: 49;
 	margin-top: 473px;
 	height: 659px;
 }
@@ -429,10 +429,10 @@
 	z-index: 2;
 }
 
-#u196-4
+#u196-8
 {
 	z-index: 30;
-	width: 228px;
+	width: 476px;
 	min-height: 21px;
 	margin-left: 20px;
 }

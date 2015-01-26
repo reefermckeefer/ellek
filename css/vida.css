@@ -1,7 +1,7 @@
 .version.vida /* version checker */
 {
-	color: #00001D;
-	background-color: #9F3CE3;
+	color: #0000F9;
+	background-color: #34D1F2;
 }
 
 .html
@@ -25,7 +25,7 @@
 
 #page_position_content
 {
-	padding-bottom: 38px;
+	padding-bottom: 14px;
 }
 
 #u189
@@ -253,12 +253,12 @@
 
 #u223
 {
-	z-index: 34;
+	z-index: 38;
 }
 
 #buttonu221
 {
-	z-index: 35;
+	z-index: 39;
 	width: 374px;
 	padding-bottom: 13px;
 	margin-right: -10000px;
@@ -277,7 +277,7 @@
 
 #u222-4
 {
-	z-index: 36;
+	z-index: 40;
 	width: 334px;
 	min-height: 6px;
 	margin-right: -10000px;
@@ -303,13 +303,13 @@
 
 #u223-bw
 {
-	z-index: 34;
+	z-index: 38;
 	height: 50px;
 }
 
 #buttonu224
 {
-	z-index: 40;
+	z-index: 44;
 	width: 374px;
 	padding-bottom: 13px;
 	margin-right: -10000px;
@@ -333,7 +333,7 @@
 
 #u225-4
 {
-	z-index: 41;
+	z-index: 45;
 	width: 157px;
 	min-height: 6px;
 	margin-right: -10000px;
@@ -389,7 +389,7 @@
 
 #u210-4
 {
-	z-index: 45;
+	z-index: 49;
 	width: 209px;
 	min-height: 26px;
 	background-color: transparent;
@@ -404,7 +404,7 @@
 
 #u211
 {
-	z-index: 49;
+	z-index: 53;
 	width: 157px;
 	background-color: transparent;
 	margin-left: 26px;
@@ -414,7 +414,7 @@
 
 #u213-29
 {
-	z-index: 51;
+	z-index: 55;
 	width: 682px;
 	min-height: 182px;
 	background-color: transparent;
@@ -447,10 +447,10 @@
 	z-index: 2;
 }
 
-#u196-4
+#u196-8
 {
 	z-index: 30;
-	width: 228px;
+	width: 476px;
 	min-height: 21px;
 	margin-left: 20px;
 }
