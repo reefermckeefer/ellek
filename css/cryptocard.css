@@ -1,7 +1,7 @@
 .version.cryptocard /* version checker */
 {
 	color: #0000F0;
-	background-color: #2DD41F;
+	background-color: #3CC8A6;
 }
 
 .html
@@ -260,7 +260,7 @@
 {
 	z-index: 39;
 	width: 374px;
-	padding-bottom: 13px;
+	padding-bottom: 16px;
 	margin-right: -10000px;
 	left: 236px;
 }
@@ -311,7 +311,7 @@
 {
 	z-index: 44;
 	width: 374px;
-	padding-bottom: 13px;
+	padding-bottom: 16px;
 	margin-right: -10000px;
 	left: 610px;
 }

@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #000006;
-	background-color: #127E7E;
+	color: #0000ED;
+	background-color: #4A7A91;
 }
 
 .html
@@ -254,7 +254,7 @@
 {
 	z-index: 39;
 	width: 374px;
-	padding-bottom: 13px;
+	padding-bottom: 16px;
 	margin-right: -10000px;
 	left: 236px;
 }
@@ -305,7 +305,7 @@
 {
 	z-index: 44;
 	width: 374px;
-	padding-bottom: 13px;
+	padding-bottom: 16px;
 	margin-right: -10000px;
 	left: 610px;
 }

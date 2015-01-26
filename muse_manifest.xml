@@ -1,4 +1,4 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1422242750711">
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1422242833827">
   <folder name="images">
     <file name="redvidalogosmall.png" crc="3915032845" ref="vida"/>
     <file name="redvidalogosmall_2x.png" crc="329671057" ref="vida"/>
@@ -10,16 +10,16 @@
     <file name="master_a-master.css" crc="4073928821" ref="index:about:contact"/>
     <file name="index.css" crc="3851097094" ref="index"/>
     <file name="iefonts_index.css" crc="4036411268" ref="index"/>
-    <file name="portfolio.css" crc="101875326" ref="portfolio"/>
+    <file name="portfolio.css" crc="3981081233" ref="portfolio"/>
     <file name="iefonts_portfolio.css" crc="393156455" ref="portfolio"/>
     <file name="about.css" crc="3999514634" ref="about"/>
     <file name="iefonts_about.css" crc="90751989" ref="about"/>
     <file name="contact.css" crc="531644634" ref="contact"/>
     <file name="iefonts_contact.css" crc="56793661" ref="contact"/>
-    <file name="master_portfolio-sub.css" crc="364548120" ref="vida:cryptocard:portfolio"/>
-    <file name="vida.css" crc="4180988402" ref="vida"/>
+    <file name="master_portfolio-sub.css" crc="280396940" ref="vida:cryptocard:portfolio"/>
+    <file name="vida.css" crc="3776777346" ref="vida"/>
     <file name="iefonts_vida.css" crc="46999464" ref="vida"/>
-    <file name="cryptocard.css" crc="4029535263" ref="cryptocard"/>
+    <file name="cryptocard.css" crc="4030515366" ref="cryptocard"/>
     <file name="iefonts_cryptocard.css" crc="534493665" ref="cryptocard"/>
     <file name="master_error-master.css" crc="4253364917" ref="404"/>
     <file name="404.css" crc="3985304658" ref="404"/>
@@ -31,10 +31,10 @@
     <file name="jquery.watch.js" crc="4144919381" ref="index:portfolio:about:contact:vida:cryptocard:404"/>
   </folder>
   <file name="index.html" crc="4071635991" mt="1422242745635" redirect="true"/>
-  <file name="portfolio.html" crc="312157623" mt="1422242745648" redirect="true"/>
+  <file name="portfolio.html" crc="312157623" mt="1422242823949" redirect="true"/>
   <file name="about.html" crc="324875035" mt="1422242745636" redirect="true"/>
   <file name="contact.html" crc="212334093" mt="1422242745637" redirect="true"/>
-  <file name="vida.html" crc="129107321" mt="1422242745649" redirect="true"/>
-  <file name="cryptocard.html" crc="3844337291" mt="1422242745650" redirect="true"/>
+  <file name="vida.html" crc="129107321" mt="1422242823951" redirect="true"/>
+  <file name="cryptocard.html" crc="3844337291" mt="1422242823952" redirect="true"/>
   <file name="404.html" crc="3954397700" mt="1422242745653" redirect="true"/>
 </manifest>

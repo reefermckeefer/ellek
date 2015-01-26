@@ -1,7 +1,7 @@
 .version.vida /* version checker */
 {
-	color: #0000F9;
-	background-color: #34D1F2;
+	color: #0000E1;
+	background-color: #1D0C82;
 }
 
 .html
@@ -260,7 +260,7 @@
 {
 	z-index: 39;
 	width: 374px;
-	padding-bottom: 13px;
+	padding-bottom: 16px;
 	margin-right: -10000px;
 	left: 236px;
 }
@@ -311,7 +311,7 @@
 {
 	z-index: 44;
 	width: 374px;
-	padding-bottom: 13px;
+	padding-bottom: 16px;
 	margin-right: -10000px;
 	left: 610px;
 }
