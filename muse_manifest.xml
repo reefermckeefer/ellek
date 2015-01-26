@@ -1,4 +1,4 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1422242074569">
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1422242248568">
   <folder name="images">
     <file name="redvidalogosmall.png" crc="3915032845" ref="vida"/>
     <file name="redvidalogosmall_2x.png" crc="329671057" ref="vida"/>
@@ -36,5 +36,5 @@
   <file name="contact.html" crc="212334093" mt="1422241599651" redirect="true"/>
   <file name="vida.html" crc="129107321" mt="1422241818754" redirect="true"/>
   <file name="cryptocard.html" crc="3844337291" mt="1422241818754" redirect="true"/>
-  <file name="404.html" crc="301816900" mt="1422242070307" redirect="true"/>
+  <file name="404.html" crc="439659483" mt="1422242238878" redirect="true"/>
 </manifest>
