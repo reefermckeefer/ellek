@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1443900890491" domain="elleklinton.com">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1443901110732" domain="elleklinton.com">
   <folder name="assets">
     <file name="trent.dmg" crc="327961037" seo="true" mt="1443900104000"/>
   </folder>
@@ -27,15 +27,14 @@
     <file name="master_error-master.css" crc="3846504966" ref="404"/>
     <file name="404.css" crc="399800318" ref="404"/>
     <file name="iefonts_404.css" crc="185355702" ref="404"/>
-    <file name="master_a-master-no-menu.css" crc="4230814558" ref="files:trent"/>
-    <file name="files.css" crc="23432170" ref="files"/>
+    <file name="master_a-master-no-menu.css" crc="4230814558" ref="trent"/>
     <file name="trent.css" crc="3931671043" ref="trent"/>
     <file name="iefonts_trent.css" crc="286233465" ref="trent"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:portfolio:about:contact:vida:cryptocard:404:files:trent"/>
-    <file name="museutils.js" crc="275725342" ref="index:portfolio:about:contact:vida:cryptocard:404:files:trent"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="index:portfolio:about:contact:vida:cryptocard:404:files:trent"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:portfolio:about:contact:vida:cryptocard:404:trent"/>
+    <file name="museutils.js" crc="275725342" ref="index:portfolio:about:contact:vida:cryptocard:404:trent"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:portfolio:about:contact:vida:cryptocard:404:trent"/>
   </folder>
   <file name="index.html" crc="3789578973" mt="1443900809550" redirect="true" seo="true"/>
   <file name="portfolio.html" crc="4117320034" mt="1422242823949" redirect="true" seo="true"/>
@@ -44,6 +43,5 @@
   <file name="vida.html" crc="4223804954" mt="1422242823951" redirect="true" seo="true"/>
   <file name="cryptocard.html" crc="344415308" mt="1422242823952" redirect="true" seo="true"/>
   <file name="404.html" crc="4129527114" mt="1422242745653" redirect="true" seo="true"/>
-  <file name="files.html" crc="4228224288" seo="true" mt="1443900867667" redirect="true"/>
   <file name="trent.html" crc="124847370" seo="true" mt="1443900876043" redirect="true"/>
 </manifest>
