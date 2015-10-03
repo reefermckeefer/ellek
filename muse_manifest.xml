@@ -1,40 +1,49 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1422242833827">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1443900890491" domain="elleklinton.com">
+  <folder name="assets">
+    <file name="trent.dmg" crc="327961037" seo="true" mt="1443900104000"/>
+  </folder>
   <folder name="images">
-    <file name="redvidalogosmall.png" crc="3915032845" ref="vida"/>
-    <file name="redvidalogosmall_2x.png" crc="329671057" ref="vida"/>
-    <file name="cryptocardcc logo red small.png" crc="82566065" ref="cryptocard"/>
-    <file name="cryptocardcc logo red small_2x.png" crc="368313047" ref="cryptocard"/>
+    <file name="redvidalogosmall.png" crc="336142769" ref="vida" seo="true"/>
+    <file name="redvidalogosmall_2x.png" crc="3811197740" ref="vida" seo="true"/>
+    <file name="cryptocardcc logo red small.png" crc="4234393704" ref="cryptocard" seo="true"/>
+    <file name="cryptocardcc logo red small_2x.png" crc="368313047" ref="cryptocard" seo="true"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="291790982"/>
-    <file name="master_a-master.css" crc="4073928821" ref="index:about:contact"/>
-    <file name="index.css" crc="3851097094" ref="index"/>
+    <file name="site_global.css" crc="289491697"/>
+    <file name="master_a-master.css" crc="5732701" ref="index:about:contact"/>
+    <file name="index.css" crc="3810211612" ref="index"/>
     <file name="iefonts_index.css" crc="4036411268" ref="index"/>
-    <file name="portfolio.css" crc="3981081233" ref="portfolio"/>
+    <file name="portfolio.css" crc="3852103757" ref="portfolio"/>
     <file name="iefonts_portfolio.css" crc="393156455" ref="portfolio"/>
-    <file name="about.css" crc="3999514634" ref="about"/>
+    <file name="about.css" crc="380103451" ref="about"/>
     <file name="iefonts_about.css" crc="90751989" ref="about"/>
-    <file name="contact.css" crc="531644634" ref="contact"/>
+    <file name="contact.css" crc="3848613558" ref="contact"/>
     <file name="iefonts_contact.css" crc="56793661" ref="contact"/>
-    <file name="master_portfolio-sub.css" crc="280396940" ref="vida:cryptocard:portfolio"/>
-    <file name="vida.css" crc="3776777346" ref="vida"/>
+    <file name="master_portfolio-sub.css" crc="3918059398" ref="vida:cryptocard:portfolio"/>
+    <file name="vida.css" crc="3892924803" ref="vida"/>
     <file name="iefonts_vida.css" crc="46999464" ref="vida"/>
-    <file name="cryptocard.css" crc="4030515366" ref="cryptocard"/>
+    <file name="cryptocard.css" crc="346232351" ref="cryptocard"/>
     <file name="iefonts_cryptocard.css" crc="534493665" ref="cryptocard"/>
-    <file name="master_error-master.css" crc="4253364917" ref="404"/>
-    <file name="404.css" crc="3985304658" ref="404"/>
+    <file name="master_error-master.css" crc="3846504966" ref="404"/>
+    <file name="404.css" crc="399800318" ref="404"/>
     <file name="iefonts_404.css" crc="185355702" ref="404"/>
+    <file name="master_a-master-no-menu.css" crc="4230814558" ref="files:trent"/>
+    <file name="files.css" crc="23432170" ref="files"/>
+    <file name="trent.css" crc="3931671043" ref="trent"/>
+    <file name="iefonts_trent.css" crc="286233465" ref="trent"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:portfolio:about:contact:vida:cryptocard:404"/>
-    <file name="museutils.js" crc="3777594392" ref="index:portfolio:about:contact:vida:cryptocard:404"/>
-    <file name="jquery.watch.js" crc="4144919381" ref="index:portfolio:about:contact:vida:cryptocard:404"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:portfolio:about:contact:vida:cryptocard:404:files:trent"/>
+    <file name="museutils.js" crc="275725342" ref="index:portfolio:about:contact:vida:cryptocard:404:files:trent"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:portfolio:about:contact:vida:cryptocard:404:files:trent"/>
   </folder>
-  <file name="index.html" crc="4071635991" mt="1422242745635" redirect="true"/>
-  <file name="portfolio.html" crc="312157623" mt="1422242823949" redirect="true"/>
-  <file name="about.html" crc="324875035" mt="1422242745636" redirect="true"/>
-  <file name="contact.html" crc="212334093" mt="1422242745637" redirect="true"/>
-  <file name="vida.html" crc="129107321" mt="1422242823951" redirect="true"/>
-  <file name="cryptocard.html" crc="3844337291" mt="1422242823952" redirect="true"/>
-  <file name="404.html" crc="3954397700" mt="1422242745653" redirect="true"/>
+  <file name="index.html" crc="3789578973" mt="1443900809550" redirect="true" seo="true"/>
+  <file name="portfolio.html" crc="4117320034" mt="1422242823949" redirect="true" seo="true"/>
+  <file name="about.html" crc="3932121504" mt="1443900809550" redirect="true" seo="true"/>
+  <file name="contact.html" crc="138212986" mt="1443900809550" redirect="true" seo="true"/>
+  <file name="vida.html" crc="4223804954" mt="1422242823951" redirect="true" seo="true"/>
+  <file name="cryptocard.html" crc="344415308" mt="1422242823952" redirect="true" seo="true"/>
+  <file name="404.html" crc="4129527114" mt="1422242745653" redirect="true" seo="true"/>
+  <file name="files.html" crc="4228224288" seo="true" mt="1443900867667" redirect="true"/>
+  <file name="trent.html" crc="124847370" seo="true" mt="1443900876043" redirect="true"/>
 </manifest>

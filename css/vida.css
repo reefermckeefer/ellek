@@ -1,7 +1,7 @@
 .version.vida /* version checker */
 {
-	color: #0000E1;
-	background-color: #1D0C82;
+	color: #0000E8;
+	background-color: #095183;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1020px;
-	min-height: 1299.9999999999948px;
+	min-height: 1299.999999999995px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -26,11 +26,13 @@
 #page_position_content
 {
 	padding-bottom: 14px;
+	width: 0.01px;
 }
 
 #u189
 {
 	z-index: 3;
+	min-height: 121px;
 	padding-bottom: 49px;
 }
 
@@ -47,12 +49,7 @@
 #u189-bw
 {
 	z-index: 3;
-	height: 121px;
-}
-
-#u200
-{
-	z-index: 9;
+	min-height: 121px;
 }
 
 #buttonu192
@@ -66,11 +63,15 @@
 
 #buttonu192:hover
 {
+	width: 187px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #buttonu192:active
 {
+	width: 187px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -88,6 +89,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 6px;
+	width: 187px;
 	margin: 25px -10000px 0px 0px;
 }
 
@@ -96,13 +98,14 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 6px;
+	width: 187px;
 	margin: 25px -10000px 0px 0px;
 }
 
-#u200-bw
+#u200,#u200-bw
 {
 	z-index: 9;
-	height: 75px;
+	min-height: 75px;
 }
 
 #buttonu201
@@ -116,11 +119,15 @@
 
 #buttonu192.ButtonSelected,#buttonu201:hover
 {
+	width: 187px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #buttonu201:active
 {
+	width: 187px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -138,6 +145,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 6px;
+	width: 187px;
 	margin: 25px -10000px 0px 0px;
 }
 
@@ -146,6 +154,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 6px;
+	width: 187px;
 	margin: 25px -10000px 0px 0px;
 }
 
@@ -160,11 +169,15 @@
 
 #buttonu201.ButtonSelected,#buttonu198:hover
 {
+	width: 187px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #buttonu198:active
 {
+	width: 187px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -182,6 +195,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 6px;
+	width: 187px;
 	margin: 25px -10000px 0px 0px;
 }
 
@@ -190,6 +204,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 6px;
+	width: 187px;
 	margin: 25px -10000px 0px 0px;
 }
 
@@ -204,11 +219,22 @@
 
 #buttonu198.ButtonSelected,#buttonu190:hover
 {
+	width: 187px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #buttonu190:active
 {
+	width: 187px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#buttonu190.ButtonSelected
+{
+	width: 187px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -226,6 +252,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 6px;
+	width: 187px;
 	margin: 25px -10000px 0px 0px;
 }
 
@@ -234,6 +261,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 6px;
+	width: 187px;
 	margin: 25px -10000px 0px 0px;
 }
 
@@ -242,6 +270,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 6px;
+	width: 187px;
 	margin: 25px -10000px 0px 0px;
 }
 
@@ -249,11 +278,6 @@
 {
 	width: 0.01px;
 	margin-left: -100px;
-}
-
-#u223
-{
-	z-index: 38;
 }
 
 #buttonu221
@@ -265,13 +289,17 @@
 	left: 236px;
 }
 
-#buttonu190.ButtonSelected,#buttonu221:hover
+#buttonu221:hover
 {
+	width: 374px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #buttonu221:active
 {
+	width: 374px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -290,6 +318,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 6px;
+	width: 334px;
 	margin: 11px -10000px 0px 0px;
 }
 
@@ -298,13 +327,23 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 6px;
+	width: 334px;
 	margin: 11px -10000px 0px 0px;
 }
 
-#u223-bw
+#buttonu221.ButtonSelected #u222-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 6px;
+	width: 334px;
+	margin: 11px -10000px 0px 0px;
+}
+
+#u223,#u223-bw
 {
 	z-index: 38;
-	height: 50px;
+	min-height: 50px;
 }
 
 #buttonu224
@@ -318,16 +357,22 @@
 
 #buttonu221.ButtonSelected,#buttonu224:hover
 {
+	width: 374px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #buttonu224:active
 {
+	width: 374px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #buttonu224.ButtonSelected
 {
+	width: 374px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -341,11 +386,12 @@
 	left: 108px;
 }
 
-#buttonu221.ButtonSelected #u222-4,#buttonu224:hover #u225-4
+#buttonu224:hover #u225-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 6px;
+	width: 157px;
 	margin: 11px -10000px 0px 0px;
 }
 
@@ -354,6 +400,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 6px;
+	width: 157px;
 	margin: 11px -10000px 0px 0px;
 }
 
@@ -362,12 +409,14 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 6px;
+	width: 157px;
 	margin: 11px -10000px 0px 0px;
 }
 
 #u194
 {
 	z-index: 4;
+	min-height: 702px;
 	padding-bottom: 242px;
 }
 
@@ -393,10 +442,10 @@
 	width: 209px;
 	min-height: 26px;
 	background-color: transparent;
-	line-height: 24px;
-	font-size: 20px;
 	color: #191919;
 	text-align: center;
+	font-size: 20px;
+	line-height: 24px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -418,9 +467,9 @@
 	width: 682px;
 	min-height: 182px;
 	background-color: transparent;
+	color: #191919;
 	line-height: 24px;
 	font-size: 20px;
-	color: #191919;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -432,7 +481,7 @@
 #u194-bw
 {
 	z-index: 4;
-	height: 702px;
+	min-height: 702px;
 }
 
 #u195

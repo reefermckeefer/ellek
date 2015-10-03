@@ -1,0 +1,50 @@
+#u305-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 61px;
+	line-height: 73px;
+	font-family: josefin-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u295,#u302
+{
+	border-color: #000000;
+	background-color: #191919;
+}
+
+#u297
+{
+	border-color: #000000;
+	background-color: #191919;
+	position: fixed;
+}
+
+#u296-8
+{
+	background-color: transparent;
+	line-height: 24px;
+	font-size: 20px;
+	font-family: josefin-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u296-6
+{
+	color: #191919;
+}
+
+#u296-2,#u296-3
+{
+	color: #FFFFFF;
+}
+
+#u295_align_to_page,#u302_align_to_page
+{
+	position: relative;
+}
+
