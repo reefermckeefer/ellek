@@ -16,6 +16,11 @@
 	background-color: #191919;
 }
 
+#u295_align_to_page,#u302_align_to_page
+{
+	position: relative;
+}
+
 #u297
 {
 	border-color: #000000;
@@ -41,10 +46,5 @@
 #u296-2,#u296-3
 {
 	color: #FFFFFF;
-}
-
-#u295_align_to_page,#u302_align_to_page
-{
-	position: relative;
 }
 
