@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1470332689313" domain="elleklinton.com">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1470332847767" domain="elleklinton.com">
   <folder name="assets">
     <file name="trent.zip" crc="135975048" seo="true" mt="1443979259000"/>
   </folder>
@@ -46,5 +46,5 @@
   <file name="cryptocard.html" crc="344415308" mt="1422242823952" redirect="true" seo="true"/>
   <file name="404.html" crc="4129527114" mt="1422242745653" redirect="true" seo="true"/>
   <file name="trent.html" crc="4213649746" seo="true" mt="1443979314916" redirect="true"/>
-  <file name="jb.html" crc="470367321" seo="true" mt="1470332664725" redirect="true"/>
+  <file name="jb.html" crc="4077232718" seo="true" mt="1470332838213" redirect="true"/>
 </manifest>
